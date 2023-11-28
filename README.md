@@ -1,9 +1,8 @@
 # datascienceportfolio
 
 ### Education
-Cognitive Science, B.S. @ UC Davis
-
-Computer Science, M.S. @ UPenn
+- Cognitive Science, B.S. @ UC Davis
+- Computer Science, M.S. @ UPenn
 
 ### Work Experience
 Bioinformatics Research Assistant @ UCD Mind Institute
