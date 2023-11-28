@@ -2,6 +2,7 @@
 
 ### Education
 Cognitive Science, B.S. @ UC Davis
+
 Computer Science, M.S. @ UPenn
 
 ### Work Experience
