@@ -2,7 +2,8 @@
 
 ### Name
 Amal Sorathia
-
+### Fun Fact
+Hello
 ### Data Scientist
 
 ### Technical Skills
