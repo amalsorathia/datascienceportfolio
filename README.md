@@ -1,5 +1,10 @@
 # datascienceportfolio
 
+### Data Scientist
+
+### Technical Skills
+- Python, R, MatLab, SQL, Tableau, Excel, Github
+
 ### Education
 - Cognitive Science, B.S. @ UC Davis
 - Computer Science, M.S. @ UPenn
