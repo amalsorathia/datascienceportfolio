@@ -1,5 +1,8 @@
 # datascienceportfolio
 
+### Name
+Amal Sorathia
+
 ### Data Scientist
 
 ### Technical Skills
