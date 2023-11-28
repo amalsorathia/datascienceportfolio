@@ -7,7 +7,7 @@
 
 ### Education
 - Cognitive Science, B.S. @ UC Davis
-- Computer Science, M.S. @ UPenn
+- Computer Science, M.S. @ University of Pennsylvania
 
 ### Work Experience
 Bioinformatics Research Assistant @ UCD Mind Institute
